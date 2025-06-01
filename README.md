@@ -1,14 +1,7 @@
-# AI-agent-cost-optimiser
+#  📊 AI-agent-cost-optimiser
 
 AI Cost Optimization Advisor. can help you understand and optimize your enterprise AI costs, and show you comparisons between human and AI-driven workflows. Try asking about cost comparisons or to show you the dashboard!
 
-Here's a cleaned-up and professional version of your README file:
-
----
-
-# 📊 AI Agent Cost Optimizer
-
-**AI Agent Cost Optimizer** is a powerful web application built using **React**, **TypeScript**, and **Vite**, designed to help enterprises optimize the cost of generative AI adoption. The application is styled with **Tailwind CSS** and visualized using **Recharts** for data-driven dashboards.
 
 ---
 
